@@ -8,6 +8,8 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 */
 
+
+
 /*
 YOUR 3 CHALLENGES
 Change the game to follow these rules:
